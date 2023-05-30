@@ -1,0 +1,41 @@
+.hero {
+  margin: 4.5rem 0 0 3rem;
+  position: relative;
+  padding: 1.25rem;
+}
+
+.hero-banner-title {
+  color: #ff2625;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 5rem 0 0;
+}
+
+.hero-banner-subtle {
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: 4rem 0;
+  line-height: 4rem;
+}
+
+.hero-banner-text {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin: 2rem 0;
+}
+
+.hero-btn {
+  background-color: #ff2625;
+  color: #fff;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.25rem;
+  margin: 1.25rem 0;
+}
+
+.hero-text-mark {
+  font-size: 200px;
+  color: #ff2625;
+  opacity: 0.1;
+  font-weight: 600;
+}

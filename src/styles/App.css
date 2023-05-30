@@ -98,7 +98,7 @@ body {
   top: 0px;
   width: 700px;
   height: 900px;
-  margin-top: -330px;
+  margin-top: -190px;
 
 }
 
@@ -143,6 +143,43 @@ body {
   width: 387px;
   height: 381px;
   text-decoration: none;
+}
+
+.search-section {
+  align-items: center;
+  justify-content: center;
+  margin: 2.25rem 0 4.5rem;
+  padding: 1.25rem;
+}
+
+.search-text {
+  font-weight: 700;
+  font-size: 2rem;
+  margin: 0 0 3rem;
+  text-align: center;
+}
+
+.search-input {
+  position: relative;
+}
+
+.input {
+  height: 5rem;
+  font-weight: 700;
+  border-radius: 0.25rem;
+  width: 25rem;
+  background-color: #fff;
+  padding: 1rem;
+  font-size: 1.25rem;
+}
+
+.search-btn {
+  background-color: #ff2625;
+  color: #fff;
+  text-transform: none;
+  width: 5rem;
+  font-size: 1.25rem;
+  height: 5rem;
 }
 
 @media screen and (max-width:1200px) {
